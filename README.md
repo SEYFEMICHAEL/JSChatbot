@@ -7,7 +7,7 @@ The chatbot is built with vanilla js & css and pre-defined local data for reques
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SEYFEMICHAEL/JSChatbot/img01.png)
+![App Screenshot](https://github.com/SEYFEMICHAEL/JSChatbot/blob/main/img01.png)
 
 
 ## 🔗 Links
